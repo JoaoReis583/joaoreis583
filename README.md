@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Bráulio Reis</h1>
+<h1 align="center">👋 Olá, eu sou o João Reis</h1>
 
 <p align="center">
-  💻 Dev Full Stack | Node.js • NestJS • React • PostgreSQL <br>
+  💻 Dev Back End <br>
   🎨 Criador da <strong>Quadros Love</strong> — unindo arte, design e tecnologia
 </p>
 
