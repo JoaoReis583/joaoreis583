@@ -2,7 +2,6 @@
 
 <p align="center">
   💻 Dev Back End <br>
-  🎨 Criador da <strong>Quadros Love</strong> — unindo arte, design e tecnologia
 </p>
 
 ---
