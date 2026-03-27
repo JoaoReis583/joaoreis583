@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-- 🔧 Atualmente atuo com **Node.js**, **NestJS** e **PostgreSQL**.  
+- 🔧 Atualmente atuo com **Node.js**, **NestJS** e **React**.  
 - 📚 Estudando constantemente para aprimorar minhas habilidades em backend.  
 - 🧠 Experiência com **Docker**, versionamento com **Git**, e testes automatizados.  
 - 🎯 Trabalho também com **evolução e manutenção de sistemas corporativos**.  
